@@ -85,6 +85,12 @@ Early-stage learning, research and trend radar repository.
 
 ## Role in the portfolio
 
+This is the foresight and learning repository.
+
+It tracks early signals in AI, cybersecurity, agents, local AI, RAG and technical literacy before they become mainstream management topics.
+
+The goal is not to collect trends for their own sake, but to understand what they could mean for organizations, workflows, governance, communication and trust.
+
 This repository is part of a four-repo portfolio system:
 
 - `adoption-operating-system` — strategy, operating models and adoption logic
@@ -92,6 +98,9 @@ This repository is part of a four-repo portfolio system:
 - `ai-content-lab` — applied AI workflows for content and knowledge systems
 - `ai-trend-radar-lab` — learning, foresight and early signals
 
-LinkedIn is where ideas are made visible.
-GitHub is where the underlying frameworks, workflows, checklists and experiments are documented.
-The website is where the professional value proposition is packaged.
+## LinkedIn bridge
+
+Some notes in this repository may become the source layer for LinkedIn posts, carousels or essays.
+
+LinkedIn carries the narrative.
+GitHub keeps the underlying source map, learning log, concept breakdown or organizational implication.
