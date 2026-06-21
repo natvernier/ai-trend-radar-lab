@@ -115,12 +115,12 @@ ai-trend-radar-lab/
 ├── 00-radar-system/
 │   ├── README.md
 │   ├── radar-method.md
-│   ├── terminology.md
 │   ├── weak-signal-logic.md
-│   ├── trend-maturity-levels.md
+│   ├── hype-cycle-thinking.md
 │   ├── signal-evaluation.md
 │   ├── source-evaluation.md
-│   └── hype-cycle-thinking.md
+│   ├── trend-maturity-levels.md
+│   └── terminology.md
 │
 ├── 01-linkedin-trend-radar/
 │   ├── README.md
@@ -137,10 +137,26 @@ ai-trend-radar-lab/
 ├── 02-trend-topics/
 │   ├── README.md
 │   ├── cybersecurity-basics-for-ai-adoption/
+│   │   ├── README.md
+│   │   ├── trend-overview.md
+│   │   ├── why-it-matters.md
+│   │   ├── early-signals.md
+│   │   ├── organizational-implications.md
+│   │   └── source-notes.md
+│   │
 │   ├── agent-risks-before-mainstream-adoption/
+│   │   ├── README.md
+│   │   ├── trend-overview.md
+│   │   ├── why-it-matters.md
+│   │   ├── early-signals.md
+│   │   ├── organizational-implications.md
+│   │   └── source-notes.md
+│   │
 │   ├── ai-sovereignty/
 │   ├── local-ai/
 │   ├── rag-and-knowledge-systems/
+│   ├── multimodal-ai/
+│   ├── ai-internal-communication/
 │   └── ai-governance-shifts/
 │
 ├── 03-source-systems/
@@ -155,9 +171,9 @@ ai-trend-radar-lab/
 │
 ├── 04-technical-literacy/
 │   ├── README.md
-│   ├── glossary.md
 │   ├── concept-breakdowns/
-│   └── explainers/
+│   ├── explainers/
+│   └── glossary.md
 │
 ├── 05-organizational-implications/
 │   ├── README.md
@@ -168,7 +184,7 @@ ai-trend-radar-lab/
 │   ├── communication-implications.md
 │   └── adoption-implications.md
 │
-├── 06-action-and-handoff/
+├── 06-action-and-handoff
 │   ├── README.md
 │   ├── action-classification.md
 │   ├── repo-handoff-map.md
@@ -192,7 +208,6 @@ ai-trend-radar-lab/
 │   ├── linkedin-radar-agent.md
 │   ├── source-review-agent.md
 │   ├── implication-mapping-agent.md
-│   ├── action-handoff-agent.md
 │   └── linkedin-content-bridge-agent.md
 │
 ├── templates/
@@ -200,27 +215,23 @@ ai-trend-radar-lab/
 │   ├── trend-note-template.md
 │   ├── weak-signal-template.md
 │   ├── source-map-template.md
-│   ├── linkedin-radar-entry-template.md
-│   ├── maturity-assessment-template.md
-│   ├── action-handoff-template.md
 │   ├── concept-breakdown-template.md
-│   └── organizational-implication-template.md
+│   ├── organizational-implication-template.md
+│   └── linkedin-radar-entry-template.md
 │
 ├── schemas/
 │   ├── README.md
 │   ├── trend-note.schema.json
 │   ├── source-profile.schema.json
 │   ├── weak-signal.schema.json
-│   ├── maturity-assessment.schema.json
-│   ├── action-handoff.schema.json
 │   └── implication-map.schema.json
 │
 └── notes/
-    ├── README.md
-    ├── inbox.md
-    ├── reading-list.md
-    ├── open-questions.md
-    └── backlog.md
+├── README.md
+├── inbox.md
+├── reading-list.md
+├── open-questions.md
+└── backlog.md
 ```
 
 ## Key modules
