@@ -28,7 +28,7 @@ It does not treat LinkedIn as an extraction target.
 
 ```txt
 LinkedIn = discovery surface
-GitHub / Notion / local workspace = structured memory
+Approved workspace / knowledge system / local environment = structured memory
 Human judgment = curation layer
 External sources = evidence layer
 AI = classification and synthesis assistant
@@ -495,11 +495,11 @@ The LinkedIn Feed as Radar method can create several outputs:
 
 The output is not automatically a LinkedIn post.
 
-A post may come later through the LinkedIn Bridge.
+A post may come later through the LinkedIn Bridge, or through another approved publication workflow.
 
 ## Handoffs
 
-The LinkedIn Trend Radar connects to the wider four-repo system.
+The LinkedIn Trend Radar connects to the wider four-repo system. It can also map to internal governance, content, strategy or research systems.
 
 ```txt
 Signal detected
@@ -589,7 +589,7 @@ Quarterly:
 
 ## Related files
 
-This file is the method anchor for the LinkedIn Trend Radar module.
+In this module, this file is the method anchor for the LinkedIn Trend Radar module.
 
 Related files:
 
