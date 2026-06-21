@@ -587,7 +587,7 @@ Quarterly:
 5. Adjust radar interests
 ```
 
-## Related files
+## Related module documents
 
 In this module, this file is the method anchor for the LinkedIn Trend Radar module.
 
