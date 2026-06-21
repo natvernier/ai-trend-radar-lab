@@ -240,7 +240,7 @@ It helps organizations define:
 * what should become a governance question
 * what must never become an automated workflow
 
-This path may become a playbook, whitepaper, consulting framework or internal policy companion.
+Could become: Organizations may adapt this into a playbook, policy companion, governance checklist or implementation standard.
 
 ## External evidence path
 
@@ -310,11 +310,7 @@ The advanced path should explore:
 * what cannot be retrieved
 * how API access differs from scraping
 
-This belongs in:
-
-```txt id="3n5gs7"
-linkedin-api-advanced-path.md
-```
+The advanced API path should be documented separately from the MVP workflow.
 
 ## What an approved API path might enable
 
@@ -527,7 +523,7 @@ The strongest future opportunity is:
 
 > A platform-compliant LinkedIn intelligence operating model that turns authorized, human-curated and evidence-checked signals into better decisions and better content.
 
-## Related files
+## Related module documents
 
 ```txt id="fye4dk"
 linkedin-feed-as-radar.md
