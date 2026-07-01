@@ -105,6 +105,7 @@ vendor narratives
 leadership pressure
 operational pressure
 internal communication
+corporate communications
 organizational change
 ```
 
