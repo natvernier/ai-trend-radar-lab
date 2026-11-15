@@ -4,6 +4,21 @@ A foresight and learning repository for tracking AI, cybersecurity, technical li
 
 This repository documents a structured way to observe emerging AI-related signals, evaluate their relevance, understand their technical meaning and translate them into organizational implications, governance questions, adoption follow-ups and communication opportunities.
 
+## What is in the repository today
+
+```txt
+ai-trend-radar-lab/
+├── README.md
+├── LICENSE
+└── linkedin-trend-radar/
+    ├── README.md
+    ├── 12 method documents     source map, classification, signal detection, noise reduction, review routine, trend note template and more
+    ├── experiments/             first manual radar experiment and three log templates
+    └── examples/                one filled example; more planned
+```
+
+Start with the [LinkedIn Trend Radar](linkedin-trend-radar/README.md). To see a trend note filled in, read the [agent risk example](linkedin-trend-radar/examples/agent-risk-signal-example.md).
+
 ## Core idea
 
 Technological change does not become relevant only when it reaches the mainstream.
@@ -85,7 +100,7 @@ This repository is guided by questions such as:
 * source maps and signal evaluation
 * trend-to-content and trend-to-action handoffs
 
-## What this repository may contain
+## Planned content
 
 * radar methods
 * weak-signal notes
@@ -105,7 +120,9 @@ This repository is guided by questions such as:
 * action and handoff questions
 * LinkedIn post source layers
 
-## Repository structure
+## Planned structure
+
+The tree below is the target structure. Only the parts listed under *What is in the repository today* exist so far.
 
 ```txt
 ai-trend-radar-lab/
@@ -234,7 +251,9 @@ ai-trend-radar-lab/
 └── backlog.md
 ```
 
-## Key modules
+## Planned modules
+
+Available today: `linkedin-trend-radar/` (planned name: `01-linkedin-trend-radar/`). All other modules below are planned.
 
 ### `00-radar-system/`
 
@@ -353,4 +372,12 @@ Detect
 
 Early-stage learning, research and trend radar repository.
 
-The current focus is building the radar structure, starting with LinkedIn as a standalone trend-radar module.
+Available: the LinkedIn Trend Radar as a standalone module, with method documents, a trend note template, a first experiment and one filled, fictionalized example.
+
+The other modules in this README are planned.
+
+Last updated: November 2026.
+
+## License
+
+Texts, frameworks, templates and examples: [CC BY 4.0](LICENSE). Free to use and adapt, also commercially, with credit.
